@@ -137,6 +137,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 🖥️ [RSTCloud MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-rstcloud) **[Smithery]** - A Model Context Protocol (MCP) server for querying the RSTCloud API. 
 * 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) **[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents. 
 * 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) **[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain. 
+* 🖥️ [ICHI MCP Server](https://github.com/bernik-bot/ichi-mcp) **[Github]** - A Model Context Protocol (MCP) server for querying the ICHI (Internet Cyber Health Index) API, providing the current internet-wide threat band and score (NORMAL through CRITICAL), recent critical vulnerability advisories, and feed source health status. No API key required.
 
 ---
 
